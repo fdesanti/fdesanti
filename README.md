@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/fdesanti/fdesanti/raw/main/LIGO_GIF_Infinite.gif" width="300" />
+  <img src="https://github.com/fdesanti/fdesanti/raw/main/LIGO_GIF_Infinite_crop.gif" width="300" />
 </p>
 
 ## Hi there 👋
