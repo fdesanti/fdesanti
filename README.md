@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://github.com/fdesanti/fdesanti/raw/main/LIGO_GIF_Infinite.gif" width="300" />
+</p>
+
 ## Hi there 👋
 
-![Cool animation](./LIGO_GIF_Infinite.gif)
 
 <!--
 **fdesanti/fdesanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
