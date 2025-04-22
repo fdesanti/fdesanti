@@ -5,7 +5,7 @@
 <div style="overflow: auto;">
   <img
     src="https://github.com/fdesanti/fdesanti/raw/main/LIGO_GIF_Infinite_crop.gif"
-    width="200"
+    width="300"
     style="float: right; margin: 400px 0 0 20px;"
   />
   <ul>
