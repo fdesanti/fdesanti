@@ -1,4 +1,5 @@
-## Hi there! 👋 I'm Federico, a PhD student in Astrophysics & Astronomy at University of Milano-Bicocca
+## Hi there! 👋 
+## I'm Federico, a PhD student in Astrophysics & Astronomy at University of Milano-Bicocca
 <p align="center">
   <img src="https://github.com/fdesanti/fdesanti/raw/main/LIGO_GIF_Infinite_crop.gif" width="300" />
 </p>
