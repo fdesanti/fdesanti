@@ -7,7 +7,7 @@
   />
 </h2>
 
-<h3>I'm Federico, a PhD student in Astrophysics & Astronomy at University of Milano‑Bicocca</h3>
+<h3>I'm Federico, a PhD student in Astrophysics & Astronomy at University of Milano Bicocca</h3>
 
 <p>I'm currently working on:</p>
 <ul>
