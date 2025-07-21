@@ -17,6 +17,10 @@
 
 <p>🚀 Sci‑fi and Astrophotography 🔭 addicted!</p>
 
+<p>
+  👉 <a href="https://github.com/fdesanti/CV/releases/latest/download/FedericoDeSanti_fullCV.pdf" target="_blank">Here</a> you can find my 📄 <a href="https://github.com/fdesanti/CV/releases/latest/download/FedericoDeSanti_fullCV.pdf" target="_blank">CV</a>
+</p>
+
 <!--
 **fdesanti/fdesanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
