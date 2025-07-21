@@ -18,7 +18,7 @@
 <p>🚀 Sci‑fi and Astrophotography 🔭 addicted!</p>
 
 <p>
-  👉 <a href="https://github.com/fdesanti/CV/releases/latest/download/FedericoDeSanti_fullCV.pdf" target="_blank">Here</a> you can find my 📄 <a href="https://github.com/fdesanti/CV/releases/latest/download/FedericoDeSanti_fullCV.pdf" target="_blank">CV</a>
+  👉 Here you can find my 📄 <a href="https://github.com/fdesanti/CV/releases/latest/download/FedericoDeSanti_fullCV.pdf" target="_blank">CV</a>
 </p>
 
 <!--
