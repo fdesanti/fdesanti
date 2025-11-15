@@ -15,7 +15,7 @@
   <li>🤖 Probabilistic Machine Learning and Simulation Based Inference</li>
 </ul>
 
-<p>🚀 Sci‑fi and Astrophotography 🔭 addicted!</p>
+<p>🚀 Sci‑fi and <a href="https://app.astrobin.com/u/FedericoDS#gallery" target="_blank">Astrophotography</a> 🔭 addicted!</p>
 
 <p>
   👉 Here you can find my 📄 <a href="https://github.com/fdesanti/CV/releases/latest/download/FedericoDeSanti_fullCV.pdf" target="_blank">CV</a>
